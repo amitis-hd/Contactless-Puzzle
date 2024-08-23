@@ -20,7 +20,7 @@ This project requires the following Python libraries:
 To install the necessary dependencies, run:
 ```bash
 pip install pygame opencv-python pyautogui SpeechRecognition
-
+```
 ## Game Instructions
 Starting the Game: The game begins by selecting a random image from the provided images. The image is then split into square pieces, which are shuffled on the screen.
 ##Voice Commands:
